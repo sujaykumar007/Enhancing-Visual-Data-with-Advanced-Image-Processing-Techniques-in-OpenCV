@@ -1,1 +1,1 @@
-# VinithKalikar-Enhancing-Visual-Data-with-Advanced-Image-Processing-Techniques-in-OpenCV
+Enhancing-Visual-Data-with-Advanced-Image-Processing-Techniques-in-OpenCV
